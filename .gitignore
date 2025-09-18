@@ -1,0 +1,15 @@
+venv/
+
+pycache/
+
+.env
+
+rawdata/
+
+trainingimages/
+
+test_data/
+
+*.h5
+
+*.npy
