@@ -4,3 +4,9 @@ __pycache__/
 *.pth
 venv/
 .DS_Store
+
+trainingimages/
+
+
+trainingimages/
+
