@@ -17,4 +17,5 @@ trainingimages/
 trainingcode.py
 testrain.py
 test.py
-
+label_classes.npy
+test_predictions.csv
