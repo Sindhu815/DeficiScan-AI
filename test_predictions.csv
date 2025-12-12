@@ -1,35 +1,36 @@
 file,true,pred,confidence
-Healthy_Nails\h50_png.rf.f97d3f64fb68832546289314c7509963.jpg,Healthy_Nails,Healthy_Nails,1.0
-Healthy_Nails\h51_png.rf.17c0ccc08ccdeb84be590f2e3d94fec5.jpg,Healthy_Nails,Healthy_Nails,1.0
-Healthy_Nails\h51_png.rf.4bca53092a9a394a3f50137e7a345afe.jpg,Healthy_Nails,Healthy_Nails,1.0
-Healthy_Nails\h63_png.rf.b8044c4edc647671cc86a20fb45535d1.jpg,Healthy_Nails,Healthy_Nails,1.0
-Healthy_Nails\h67_png.rf.0365a652ed3e989f56cf05b461aee8b7.jpg,Healthy_Nails,Healthy_Nails,1.0
-Healthy_Nails\h67_png.rf.88b203fc5567c29640c23bff29989f76.jpg,Healthy_Nails,Healthy_Nails,1.0
-Vitamin_A_Deficiency\eczema-nail-16.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.99728227
-Vitamin_A_Deficiency\eczema-nail-17.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.9944285
-Vitamin_A_Deficiency\eczema-nail-18.jpg,Vitamin_A_Deficiency,Healthy_Nails,0.8878178
-Vitamin_A_Deficiency\habit-tic-deformity-14.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.994408
-Vitamin_A_Deficiency\habit-tic-deformity-16.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.68363625
-Vitamin_A_Deficiency\habit-tic-deformity-17.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.9979286
-Vitamin_A_Deficiency\habit-tic-deformity-36.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.69331396
-Vitamin_A_Deficiency\habit-tic-deformity-37.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.9755274
-Vitamin_A_Deficiency\habit-tic-deformity-38.jpg,Vitamin_A_Deficiency,Vitamin_A_Deficiency,0.9977272
-Vitamin_B!2_deficiency\images.jpeg,Vitamin_B!2_deficiency,"zinc,iron,biotin,or protein def",0.4566893
-Vitamin_E_deficiency\White Nails (5) - Copy.PNG,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9873532
-Vitamin_E_deficiency\White Nails (5) - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9501885
-Vitamin_E_deficiency\White Nails (5).PNG,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9873532
-Vitamin_E_deficiency\White Nails (5).jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9501885
-Vitamin_E_deficiency\White Nails (6) - Copy - Copy.PNG,Vitamin_E_deficiency,Vitamin_E_deficiency,0.8775519
-Vitamin_E_deficiency\White Nails (6) - Copy - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.96109706
-Vitamin_E_deficiency\White Nails (6) - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.96109706
-dandruff\_1597487951920_jpg.rf.62170c9c87daa1af59b41c2815f4af62 - Copy.jpg,dandruff,dandruff,0.99906915
-dandruff\_1597662610690_jpg.rf.f908e1997810f935857fda52016c3a3e - Copy (2) - Copy.jpg,dandruff,dandruff,0.9999974
-dandruff\_1615981401465_jpg.rf.a732f08683dd471e29a9794a514b3dab - Copy (2).jpg,dandruff,dandruff,0.9999802
-dandruff\_1625981578646_jpg.rf.d56eb9fef6def8a5f7787669236373b3 - Copy.jpg,dandruff,dandruff,0.9998511
-"zinc,iron,biotin,or protein def\yellow-nails-2 - Copy - Copy.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.6836429
-"zinc,iron,biotin,or protein def\yellow-nails-2 - Copy.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.6836429
-"zinc,iron,biotin,or protein def\yellow-nails-2.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.6836429
-"zinc,iron,biotin,or protein def\yellow-nails-5 - Copy (2) - Copy - Copy.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.8179704
-"zinc,iron,biotin,or protein def\yellow-nails-5 - Copy - Copy (2).jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.8179704
-"zinc,iron,biotin,or protein def\yellow-nails-5 - Copy - Copy - Copy.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.8179704
-"zinc,iron,biotin,or protein def\yellow-nails-5 - Copy - Copy.jpg","zinc,iron,biotin,or protein def","zinc,iron,biotin,or protein def",0.8179704
+Acral_Lentiginous_Melanoma\4494_jpg.rf.41f531ec11b70699f8563986b9fe4fd9.jpg,Acral_Lentiginous_Melanoma,Acral_Lentiginous_Melanoma,0.63100386
+Acral_Lentiginous_Melanoma\CuvmX-dWIAAv_PX_jpeg.rf.9a978ed8ec6b5c63529dbdd6a13be611.jpg,Acral_Lentiginous_Melanoma,Acral_Lentiginous_Melanoma,0.8014317
+Acral_Lentiginous_Melanoma\Nail-apparatus-lentigo-in-an-adult_Q320_jpg.rf.9d072b7e4ac0f85b452e8b0e8826e855.jpg,Acral_Lentiginous_Melanoma,Acral_Lentiginous_Melanoma,0.69403684
+Acral_Lentiginous_Melanoma\Screen-Shot-2021-11-16-at-6-57-44-PM_png.rf.daa45ff36593d9ad355db22b40be353a.jpg,Acral_Lentiginous_Melanoma,Healthy,0.98051584
+Acral_Lentiginous_Melanoma\Screen-Shot-2021-11-16-at-6-58-00-PM_png.rf.a58b88ffc29670a9925e1e7c89abb947.jpg,Acral_Lentiginous_Melanoma,blue_finger,0.6831063
+Acral_Lentiginous_Melanoma\prf_11_18_11_jpg.rf.57de670fa468da5dff96e0c2c6bce4fc.jpg,Acral_Lentiginous_Melanoma,blue_finger,0.6023358
+Healthy\h4_png.rf.ebb8fd325975033307928b93bcadfb38.jpg,Healthy,Healthy,1.0
+Healthy\h7_png.rf.a3d7790a47b4e0b7c3a5c13cc27c21e8 - Copy.jpg,Healthy,Healthy,1.0
+Healthy\h9_png.rf.4a11c4365a9b6e4c3a7ba8dae35f0236 - Copy.jpg,Healthy,Healthy,1.0
+Healthy\h9_png.rf.4a11c4365a9b6e4c3a7ba8dae35f0236.jpg,Healthy,Healthy,1.0
+Vitamin A\chronic-paronychia-20 - Copy.jpg,Vitamin A,Vitamin A,0.99989593
+Vitamin A\chronic-paronychia-21 - Copy - Copy.jpg,Vitamin A,Vitamin A,0.9899194
+Vitamin A\chronic-paronychia-23 - Copy.jpg,Vitamin A,Vitamin A,0.99467826
+Vitamin A\chronic-paronychia-24 - Copy - Copy.jpg,Vitamin A,Vitamin A,0.99974567
+Vitamin_E_deficiency\White Nails (4) - Copy - Copy - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9999403
+Vitamin_E_deficiency\White Nails (5) - Copy - Copy - Copy.PNG,Vitamin_E_deficiency,Vitamin_E_deficiency,0.99840516
+Vitamin_E_deficiency\White Nails (5) - Copy - Copy - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.99994135
+Vitamin_E_deficiency\White Nails (6) - Copy - Copy - Copy.PNG,Vitamin_E_deficiency,Vitamin_E_deficiency,0.9696417
+Vitamin_E_deficiency\White Nails (6) - Copy - Copy - Copy.jpg,Vitamin_E_deficiency,Vitamin_E_deficiency,0.98979014
+alopecia-vitD-IRON\1348__WatermarkedWyJXYXRlcm1hcmtlZCJd_jpg.rf.47388129c6afeddbb5d9e63756889044 - Copy - Copy.jpg,alopecia-vitD-IRON,Healthy,0.9999268
+alopecia-vitD-IRON\1356__WatermarkedWyJXYXRlcm1hcmtlZCJd_jpg.rf.6c64d94d0169a60c6af8778c663d3cd9 - Copy.jpg,alopecia-vitD-IRON,Healthy,0.9522985
+blue_finger\3537c880a6f711e688859b4b6be08695-Fig_3A_red-purple_discoloration_JPG.rf.61c1f59c35c9ae93a89c356b3d0786eb - Copy.jpg,blue_finger,Healthy,0.6255839
+blue_finger\3537c880a6f711e688859b4b6be08695-Fig_3A_red-purple_discoloration_JPG.rf.61c1f59c35c9ae93a89c356b3d0786eb.jpg,blue_finger,Healthy,0.6255839
+blue_finger\Screen-Shot-2021-10-15-at-9-30-50-AM_png.rf.5e0aeaa69c6a4a470c5374d7042b3b41.jpg,blue_finger,blue_finger,0.8465578
+blue_finger\Screen-Shot-2021-10-15-at-9-30-55-AM_png.rf.25dd510176cef5fec6db091cee9c759d - Copy.jpg,blue_finger,blue_finger,0.80251956
+blue_finger\Screen-Shot-2021-10-15-at-9-31-06-AM_png.rf.53629f0f52d8f93b7c319b6890a93d25 - Copy.jpg,blue_finger,blue_finger,0.75053346
+blue_finger\Screen-Shot-2021-10-15-at-9-31-06-AM_png.rf.53629f0f52d8f93b7c319b6890a93d25.jpg,blue_finger,blue_finger,0.75053346
+dandruff-VITB COMPLEX-ZINC\_1562595305339_jpg.rf.7c4da490d09a69ba4699f1bc495be47c.jpg,dandruff-VITB COMPLEX-ZINC,dandruff-VITB COMPLEX-ZINC,0.9974606
+dandruff-VITB COMPLEX-ZINC\_1563608067182_jpg.rf.3f0682f5569191fb14e2f8fdd46e71c0 - Copy (4) - Copy.jpg,dandruff-VITB COMPLEX-ZINC,dandruff-VITB COMPLEX-ZINC,0.9996598
+dandruff-VITB COMPLEX-ZINC\_1563608067182_jpg.rf.3f0682f5569191fb14e2f8fdd46e71c0 - Copy (4).jpg,dandruff-VITB COMPLEX-ZINC,dandruff-VITB COMPLEX-ZINC,0.9996598
+dandruff-VITB COMPLEX-ZINC\_1563608067182_jpg.rf.3f0682f5569191fb14e2f8fdd46e71c0 - Copy - Copy - Copy.jpg,dandruff-VITB COMPLEX-ZINC,dandruff-VITB COMPLEX-ZINC,0.9996598
+"zinc,iron,biotin or prot def\Yellow Nails (2) - Copy - Copy - Copy.PNG","zinc,iron,biotin or prot def","zinc,iron,biotin or prot def",0.9844461
+"zinc,iron,biotin or prot def\Yellow Nails (2) - Copy - Copy.PNG","zinc,iron,biotin or prot def","zinc,iron,biotin or prot def",0.9844461
+"zinc,iron,biotin or prot def\Yellow Nails (4) - Copy - Copy.PNG","zinc,iron,biotin or prot def","zinc,iron,biotin or prot def",0.9960807
+"zinc,iron,biotin or prot def\Yellow Nails (4) - Copy.PNG","zinc,iron,biotin or prot def","zinc,iron,biotin or prot def",0.9960807

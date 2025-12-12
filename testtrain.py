@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 # 1) Paths (EDIT IF NEEDED)
 # -----------------------------
 BASE_DIR = r"C:\Users\msind\OneDrive\Documents\Desktop\cnn model"
-MODEL_PATH = os.path.join(BASE_DIR, "FinalMP_model.h5")
+MODEL_PATH = os.path.join(BASE_DIR, "FinalMP_model.keras")
 LABELS_PATH = os.path.join(BASE_DIR, "label_classes.npy")
 TEST_DIR = os.path.join(BASE_DIR, "trainingimages")   # put your test folder here
 
