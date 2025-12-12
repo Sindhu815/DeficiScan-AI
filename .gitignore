@@ -10,3 +10,11 @@ trainingimages/
 
 trainingimages/
 
+
+rawdata/
+test_data/
+trainingimages/
+trainingcode.py
+testrain.py
+test.py
+
